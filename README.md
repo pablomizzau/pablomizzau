@@ -29,6 +29,7 @@ Proyecto grupal desarrollado en Henry. Incluye análisis de reseñas, modelo de 
 
 🔹 **Análisis del Sector de Telecomunicaciones**  
 Proyecto individual desarrollado en Henry. Este proyecto realiza un análisis del sector de telecomunicaciones con énfasis en el acceso a internet. Utilizando técnicas de ETL y EDA, se busca identificar tendencias, posibles oportunidades de crecimiento y factores que afectan la calidad del servicio.
+
 🔗 [Repositorio del proyecto](https://github.com/pablomizzau/Trabajo_Individual_2_Henry)
 
 🔹 **a**  
