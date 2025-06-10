@@ -24,12 +24,11 @@ Además, soy profesor de ajedrez con varios años de experiencia, lo que me ha p
 ## 📂 Proyectos destacados
 
 🔹 **Análisis y recomendación de reseñas para restaurante educativo**  
-Proyecto grupal desarrollado en Henry. Incluye análisis de reseñas, modelo de ML para predecir ratings, visualizaciones interactivas y carga incremental de datos en BigQuery.  
+Proyecto grupal desarrollado en Henry. Incluye análisis de reseñas, modelo de ML para predecir ratings, visualizaciones interactivas y carga incremental de datos en BigQuery.
 🔗 [Repositorio del proyecto](https://github.com/pablomizzau/YELP-GOOGLE-MAPS---REVIEWS-AND-RECOMMENDATIONS)
 
 🔹 **Análisis del Sector de Telecomunicaciones**  
 Proyecto individual desarrollado en Henry. Este proyecto realiza un análisis del sector de telecomunicaciones con énfasis en el acceso a internet. Utilizando técnicas de ETL y EDA, se busca identificar tendencias, posibles oportunidades de crecimiento y factores que afectan la calidad del servicio.
-
 🔗 [Repositorio del proyecto](https://github.com/pablomizzau/Trabajo_Individual_2_Henry)
 
 🔹 **a**  
